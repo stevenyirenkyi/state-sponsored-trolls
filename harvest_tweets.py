@@ -50,9 +50,10 @@ def get_user_tweets(client: Client, user_id: int) -> list[Tweet]:
     # TODO: remove limit. set max_results
     for response in Paginator(client.get_users_tweets,
                               user_id,
+                              max_results=100,
                               tweet_fields=["author_id", "created_at", "lang",
                                             "source", "entities", "conversation_id",
-                                            "in_reply_to_user_id", "referenced_tweets"], limit=1):
+                                            "in_reply_to_user_id", "referenced_tweets"]):
 
         if response.data is None:
             continue

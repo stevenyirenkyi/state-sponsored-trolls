@@ -1,0 +1,1748 @@
+2022-08-16 15:47:01,639 general - INFO - Processing 1488177812087398405—malqasoumi - 140141358065472
+2022-08-16 15:47:01,695 general - INFO - Processing 4322729656—NawafAzizN - 140141358065472
+2022-08-16 15:47:01,706 general - INFO - Processing 2841912917—trains_onplanes - 140141358065472
+2022-08-16 15:47:01,789 general - INFO - Processing 1321592384036261888—LAJAMI_78 - 140141358065472
+2022-08-16 15:47:37,272 general - INFO - Processing 3282811051—DR_AGhulam - 140141358065472
+2022-08-16 15:47:37,312 general - INFO - Processing 1373550313228091394—mcgovsa_care - 140141358065472
+2022-08-16 15:48:16,966 general - INFO - Processing 1488556264108040192—HazembinHussei1 - 140141358065472
+2022-08-16 15:48:16,998 general - INFO - Processing 463316121—ibrahim_98 - 140141358065472
+2022-08-16 15:48:53,869 general - INFO - Processing 1340401506831491072—emadalhakmi - 140141358065472
+2022-08-16 15:48:53,891 general - INFO - Processing 390060177—Selimmoh2 - 140141358065472
+2022-08-16 15:51:37,570 general - INFO - Processing 907677599530446849—bander20030 - 140141358065472
+2022-08-16 15:51:37,614 general - INFO - Processing 481160058—aalgharsan - 140141358065472
+2022-08-16 15:52:23,631 general - INFO - Processing 471291403—Alshuabi - 140141358065472
+2022-08-16 15:53:01,971 general - INFO - Processing 2216416036—gazzi_24 - 140141358065472
+2022-08-16 15:53:01,977 general - INFO - Processing 718161560—kayid1100 - 140141358065472
+2022-08-16 15:53:02,023 general - INFO - Processing 1250984876—Msdosari - 140141358065472
+2022-08-16 15:53:02,030 general - INFO - Processing 1438871650766921733—JISR_M - 140141358065472
+2022-08-16 15:53:02,036 general - INFO - Processing 1199956100004634624—ALAmoudiSheika - 140141358065472
+2022-08-16 15:53:02,050 general - INFO - Processing 366819917—_alhadad__ - 140141358065472
+2022-08-16 15:53:02,056 general - INFO - Processing 2444920593—kaahc_sa - 140141358065472
+2022-08-16 15:53:49,743 general - INFO - Processing 759775919460319233—ahmedalamer_99 - 140141358065472
+2022-08-16 15:53:49,768 general - INFO - Processing 1342071298764234753—HawiSaudiArabia - 140141358065472
+2022-08-16 15:53:55,264 general - INFO - Processing 833784434—almedan8 - 140141358065472
+2022-08-16 15:53:55,267 general - INFO - Processing 1450409137247035395—hiakah_sa - 140141358065472
+2022-08-16 15:53:55,320 general - INFO - Processing 2981037288—aa1hz - 140141358065472
+2022-08-16 15:54:38,663 general - INFO - Processing 1901663838—bsheerAlzwaiml - 140141358065472
+2022-08-16 15:55:20,426 general - INFO - Processing 1577814511—E_A77 - 140141358065472
+2022-08-16 15:55:20,466 general - INFO - Processing 916747400009699328—arabiue - 140141358065472
+2022-08-16 15:55:20,479 general - INFO - Processing 1361283998824214530—TrueGaming_ES - 140141358065472
+2022-08-16 15:55:20,507 general - INFO - Processing 560901668—hassanAassiry - 140141358065472
+2022-08-16 15:55:59,827 general - INFO - Processing 362841721—n_alghamdi - 140141358065472
+2022-08-16 15:55:59,862 general - INFO - Processing 250554738—mHatHut - 140141358065472
+2022-08-16 15:56:39,323 general - INFO - Processing 468816391—ahmed_aljuhani3 - 140141358065472
+2022-08-16 15:56:39,378 general - INFO - Processing 464939569—MuslimAlhwamlah - 140141358065472
+2022-08-16 15:56:39,430 general - INFO - Processing 2210772802—saad_alsakaa - 140141358065472
+2022-08-16 15:57:19,395 general - INFO - Processing 913148546995691520—hnnz1234 - 140141358065472
+2022-08-16 15:57:19,457 general - INFO - Processing 844664578541805568—Noufafsk - 140141358065472
+2022-08-16 15:57:19,460 general - INFO - Processing 2450593744—saooooodi01 - 140141358065472
+2022-08-16 15:57:19,477 general - INFO - Processing 821042956652150785—muhamad_aldarim - 140141358065472
+2022-08-16 15:58:03,699 general - INFO - Processing 729635323—adel_aljamaan - 140141358065472
+2022-08-16 15:58:03,719 general - INFO - Processing 466643468—BinQaid - 140141358065472
+2022-08-16 15:58:03,749 general - INFO - Processing 960958520—d_tlasy - 140141358065472
+2022-08-16 15:58:03,779 general - INFO - Processing 907743961653145600—ghazi_almutair1 - 140141358065472
+2022-08-16 15:58:03,809 general - INFO - Processing 203464987—rashedkumait - 140141358065472
+2022-08-16 15:58:43,744 general - ERROR - USER ID 466643468
+........
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/466643468/tweets?max_results=100&tweet.fields=author_id%2Ccreated_at%2Clang%2Csource%2Centities%2Cconversation_id%2Cin_reply_to_user_id%2Creferenced_tweets (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f73e8af1270>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+........
+ - 140135702922816
+2022-08-16 15:58:43,745 general - ERROR - USER ID 729635323
+........
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/729635323/tweets?max_results=100&tweet.fields=author_id%2Ccreated_at%2Clang%2Csource%2Centities%2Cconversation_id%2Cin_reply_to_user_id%2Creferenced_tweets (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f73e8af0940>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+........
+ - 140135711315520
+2022-08-16 15:58:43,794 general - ERROR - USER ID 960958520
+........
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/960958520/tweets?max_results=100&tweet.fields=author_id%2Ccreated_at%2Clang%2Csource%2Centities%2Cconversation_id%2Cin_reply_to_user_id%2Creferenced_tweets (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f73e8af1ba0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+........
+ - 140135694530112
+2022-08-16 15:58:43,826 general - ERROR - USER ID 907743961653145600
+........
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/907743961653145600/tweets?max_results=100&tweet.fields=author_id%2Ccreated_at%2Clang%2Csource%2Centities%2Cconversation_id%2Cin_reply_to_user_id%2Creferenced_tweets (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f73e8af24a0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+........
+ - 140135686137408
+2022-08-16 15:58:43,853 general - ERROR - USER ID 203464987
+........
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/203464987/tweets?max_results=100&tweet.fields=author_id%2Ccreated_at%2Clang%2Csource%2Centities%2Cconversation_id%2Cin_reply_to_user_id%2Creferenced_tweets (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f73e8af2e60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+........
+ - 140135677744704
+2022-08-16 15:58:45,783 general - INFO - Processing 1038557815277846529—wasfaty_sa - 140141358065472
+2022-08-16 15:58:45,817 general - INFO - Processing 1463225204742803462—KSGAPFAL - 140141358065472
+2022-08-16 15:58:45,836 general - INFO - Processing 300039629—1_saad - 140141358065472
+2022-08-16 15:58:45,860 general - INFO - Processing 36884066—Alhilal_SG - 140141358065472
+2022-08-16 15:59:16,302 general - INFO - Processing 2219396827—MOE_EEH - 140141358065472
+2022-08-16 15:59:16,343 general - INFO - Processing 62204620—fahad_alahmdi88 - 140141358065472
+2022-08-16 16:00:03,582 general - INFO - Processing 4452055655—uqnnews - 140141358065472
+2022-08-16 16:00:03,650 general - INFO - Processing 778293695481282564—fransileasing - 140141358065472
+2022-08-16 16:00:03,656 general - INFO - Processing 1488925691412455424—arabthon - 140141358065472
+2022-08-16 16:00:42,084 general - INFO - Processing 1485582987534213123—jawwytvcare - 140141358065472
+2022-08-16 16:00:42,138 general - INFO - Processing 1272966826385969153—kingabdulazizsa - 140141358065472
+2022-08-16 16:06:37,286 general - INFO - Processing 556085485—SaudiAndroid - 140141358065472
+2022-08-16 16:06:37,298 general - INFO - Processing 581663340—FahadAlhero - 140141358065472
+2022-08-16 16:06:37,347 general - INFO - Processing 1844067260—n15awaf - 140141358065472
+2022-08-16 16:07:19,213 general - INFO - Processing 1457629504336285700—EsnadMaharah - 140141358065472
+2022-08-16 16:07:22,170 general - INFO - Processing 360021386—alkhamisziad - 140141358065472
+2022-08-16 16:07:22,206 general - INFO - Processing 370144923—ElDHME - 140141358065472
+2022-08-16 16:07:57,649 general - INFO - Processing 243626818—salsulymani - 140141358065472
+2022-08-16 16:07:57,661 general - INFO - Processing 1276592207185747969—dr_hawaalqarni - 140141358065472
+2022-08-16 16:07:57,713 general - INFO - Processing 467723240—faisal_rakan_ - 140141358065472
+2022-08-16 16:08:33,239 general - INFO - Processing 219965310—KhalidAladdad - 140141358065472
+2022-08-16 16:09:12,359 general - INFO - Processing 364634113—atifalgady - 140141358065472
+2022-08-16 16:09:54,981 general - INFO - Processing 1366787982—drmohka - 140141358065472
+2022-08-16 16:10:41,529 general - INFO - Processing 971643076132458496—saudiatv_1 - 140141358065472
+2022-08-16 16:11:16,533 general - INFO - Processing 1674174121—DrAlarifiSaad - 140141358065472
+2022-08-16 16:11:16,555 general - INFO - Processing 742012541455499264—aminalbukhari_ - 140141358065472
+2022-08-16 16:11:16,581 general - INFO - Processing 193235125—abujasem_7 - 140141358065472
+2022-08-16 16:11:16,587 general - INFO - Processing 2243426026—a_jbren - 140141358065472
+2022-08-16 16:11:16,616 general - INFO - Processing 229353282—alresalahnet - 140141358065472
+2022-08-16 16:12:07,401 general - INFO - Processing 1721683765—MOE_KRH - 140141358065472
+2022-08-16 16:12:07,411 general - INFO - Processing 1696631076—eid_alrmaliy - 140141358065472
+2022-08-16 16:12:59,924 general - INFO - Processing 3222884316—akeedgroup - 140141358065472
+2022-08-16 16:12:59,962 general - INFO - Processing 1243529592—arb990 - 140141358065472
+2022-08-16 16:21:39,119 general - INFO - Processing 474196102—aja5005 - 140141358065472
+2022-08-16 16:21:39,133 general - INFO - Processing 309772371—ThyabMeteeb - 140141358065472
+2022-08-16 16:21:39,154 general - INFO - Processing 1553776200—ABAADI2015 - 140141358065472
+2022-08-16 16:22:22,736 general - INFO - Processing 2868719227—salahalarfaj - 140141358065472
+2022-08-16 16:23:06,764 general - INFO - Processing 491296245—3limohm - 140141358065472
+2022-08-16 16:23:06,776 general - INFO - Processing 3778396217—mshpanna - 140141358065472
+2022-08-16 16:23:06,844 general - INFO - Processing 821486167—sadar1000 - 140141358065472
+2022-08-16 16:23:06,853 general - INFO - Processing 412090006—Saeed_Aladwany - 140141358065472
+2022-08-16 16:23:51,705 general - INFO - Processing 494201867—ibra998 - 140141358065472
+2022-08-16 16:23:51,732 general - INFO - Processing 2266154233—MOE_ZLF - 140141358065472
+2022-08-16 16:24:37,956 general - INFO - Processing 1100140872358916098—vip_cse0 - 140141358065472
+2022-08-16 16:24:38,053 general - INFO - Processing 597261951—MufadiRaidi - 140141358065472
+2022-08-16 16:24:38,082 general - INFO - Processing 481374497—FahadALhasham - 140141358065472
+2022-08-16 16:25:14,902 general - INFO - Processing 356468070—13Faisal - 140141358065472
+2022-08-16 16:25:58,522 general - INFO - Processing 1088766524331036672—mrmandoobapp - 140141358065472
+2022-08-16 16:25:58,540 general - INFO - Processing 1313369317178826754—ncvcksa - 140141358065472
+2022-08-16 16:25:58,619 general - INFO - Processing 745548955304370176—mun_yanbu - 140141358065472
+2022-08-16 16:26:38,962 general - INFO - Processing 2756370170—ssaa13505 - 140141358065472
+2022-08-16 16:26:39,020 general - INFO - Processing 4039804033—Drb7h1 - 140141358065472
+2022-08-16 16:27:17,648 general - INFO - Processing 1229743692866637825—najiz_sa - 140141358065472
+2022-08-16 16:27:46,439 general - INFO - Processing 3262776096—Riyadh_Turki - 140141358065472
+2022-08-16 16:27:46,467 general - INFO - Processing 1301397603603689473—NaqiCare - 140141358065472
+2022-08-16 16:27:46,486 general - INFO - Processing 279796216—Rtiban1 - 140141358065472
+2022-08-16 16:28:24,339 general - INFO - Processing 40904912—tareefal - 140141358065472
+2022-08-16 16:28:50,983 general - INFO - Processing 1224191682314371074—ShgardiKSA - 140141358065472
+2022-08-16 16:28:50,997 general - INFO - Processing 1183695482138349568—MahdAcademy - 140141358065472
+2022-08-16 16:28:51,025 general - INFO - Processing 1028970387034591233—naqiksa - 140141358065472
+2022-08-16 16:36:41,775 general - INFO - Processing 1683846926—m_albogmey - 140141358065472
+2022-08-16 16:37:22,110 general - INFO - Processing 461558983—alrashedibandar - 140141358065472
+2022-08-16 16:37:22,165 general - INFO - Processing 3164103444—Zincoint - 140141358065472
+2022-08-16 16:38:00,346 general - INFO - Processing 495105362—raid55551 - 140141358065472
+2022-08-16 16:38:23,360 general - INFO - Processing 393404027—faisal_3yesh - 140141358065472
+2022-08-16 16:38:23,422 general - INFO - Processing 1296476604231753728—MkA_ALMALKI - 140141358065472
+2022-08-16 16:38:23,461 general - INFO - Processing 1267899109—saleh1584 - 140141358065472
+2022-08-16 16:39:04,311 general - INFO - Processing 3236596755—freesiaShopCom - 140141358065472
+2022-08-16 16:39:17,476 general - INFO - Processing 1172305226079956992—talidi11 - 140141358065472
+2022-08-16 16:39:17,488 general - INFO - Processing 1363781176771624960—KSGAFAL - 140141358065472
+2022-08-16 16:39:17,581 general - INFO - Processing 2163700875—malradi - 140141358065472
+2022-08-16 16:39:17,599 general - INFO - Processing 392891250—iageely - 140141358065472
+2022-08-16 16:40:12,133 general - INFO - Processing 450209698—khalidaldaahim - 140141358065472
+2022-08-16 16:40:12,198 general - INFO - Processing 3077783538—KSANews9 - 140141358065472
+2022-08-16 16:40:51,163 general - INFO - Processing 4260765850—TouristMapsApp - 140141358065472
+2022-08-16 16:40:51,206 general - INFO - Processing 930141049976213504—alamre_55 - 140141358065472
+2022-08-16 16:40:51,228 general - INFO - Processing 1313373435062558725—ncecksa - 140141358065472
+2022-08-16 16:41:41,765 general - INFO - Processing 1176539543094407168—alaklabi_m - 140141358065472
+2022-08-16 16:41:41,771 general - INFO - Processing 1700819047—nashmiqq - 140141358065472
+2022-08-16 16:41:41,798 general - INFO - Processing 825619062436855808—lumirentalco - 140141358065472
+2022-08-16 16:42:07,512 general - INFO - Processing 1244703058745049088—SaudiHEF - 140141358065472
+2022-08-16 16:42:07,577 general - INFO - Processing 571627076—mjeed_harbi - 140141358065472
+2022-08-16 16:51:44,584 general - INFO - Processing 1261715671387439106—mishalaltamimi0 - 140141358065472
+2022-08-16 16:52:09,670 general - INFO - Processing 2864632193—A_naqudan - 140141358065472
+2022-08-16 16:52:09,687 general - INFO - Processing 1203640546629226496—CLSR_SA - 140141358065472
+2022-08-16 16:52:09,690 general - INFO - Processing 1301139027719065602—SRHRSD_SA - 140141358065472
+2022-08-16 16:52:51,275 general - INFO - Processing 1079694325301346304—al_agran - 140141358065472
+2022-08-16 17:07:05,002 general - INFO - Processing 394610492—ISE_ITservices - 140141358065472
+2022-08-16 17:07:28,758 general - INFO - Processing 1252364845808222208—MRNKSA - 140141358065472
+2022-08-16 17:07:28,758 general - INFO - Processing 1274660379403190273—spokesman_mc - 140141358065472
+2022-08-16 17:08:08,202 general - INFO - Processing 742818415518355456—quran5051 - 140141358065472
+2022-08-16 17:08:59,534 general - INFO - Processing 541594474—norah_homod - 140141358065472
+2022-08-16 17:08:59,572 general - INFO - Processing 1253413630495780864—ahatayla2020 - 140141358065472
+2022-08-16 17:08:59,575 general - INFO - Processing 191285296—Baina_Almulhim - 140141358065472
+2022-08-16 17:10:00,516 general - INFO - Processing 2855298930—ewdifh - 140141358065472
+2022-08-16 17:10:00,524 general - INFO - Processing 1241681936457793536—SFES_KSA - 140141358065472
+2022-08-16 17:11:10,237 general - INFO - Processing 1196007123429330945—Saudi_opinion - 140141358065472
+2022-08-16 17:11:22,668 general - INFO - Processing 1254514161708564480—DonationsSA - 140141358065472
+2022-08-16 17:21:47,714 general - INFO - Processing 718801496—albwaabh - 140141358065472
+2022-08-16 17:22:40,434 general - INFO - Processing 908253737403248641—alrkbaan - 140141358065472
+2022-08-16 17:22:40,438 general - INFO - Processing 431035045—Batil_alwaqa - 140141358065472
+2022-08-16 17:22:40,438 general - INFO - Processing 1387147921—News_Ejazah - 140141358065472
+2022-08-16 17:22:40,443 general - INFO - Processing 2902805030—DeraahOnline - 140141358065472
+2022-08-16 17:22:40,464 general - INFO - Processing 2199076826—WATANIAAGRI - 140141358065472
+2022-08-16 17:22:40,489 general - INFO - Processing 835842235463843841—FTLadies - 140141358065472
+2022-08-16 17:23:34,605 general - INFO - Processing 1086206231876902912—EKH_TURK - 140141358065472
+2022-08-16 17:23:34,617 general - INFO - Processing 1159035222215802880—NTP_2030 - 140141358065472
+2022-08-16 17:23:44,621 general - INFO - Processing 857178413521666048—AlfarisRentACar - 140141358065472
+2022-08-16 17:23:44,626 general - INFO - Processing 723757824128503808—TameeniKSA - 140141358065472
+2022-08-16 17:24:41,897 general - INFO - Processing 1181640933537931265—Thikrayat_tv - 140141358065472
+2022-08-16 17:24:42,011 general - INFO - Processing 1171432579276238848—MajedAlghanmi - 140141358065472
+2022-08-16 17:25:43,709 general - INFO - Processing 2744318221—qalmaskin - 140141358065472
+2022-08-16 17:25:43,751 general - INFO - Processing 844095813945098240—awaanSA - 140141358065472
+2022-08-16 17:26:44,461 general - INFO - Processing 1207325274330845184—nacrsa - 140141358065472
+2022-08-16 17:26:44,462 general - INFO - Processing 1084356264421982208—betterlife_ncmh - 140141358065472
+2022-08-16 17:26:44,463 general - INFO - Processing 484500173—TaletEltemyat - 140141358065472
+2022-08-16 17:27:45,748 general - INFO - Processing 1069001218285060098—MISHALALSAUD19 - 140141358065472
+2022-08-16 17:28:49,463 general - INFO - Processing 4208361395—aljabrfinancing - 140141358065472
+2022-08-16 17:37:08,658 general - INFO - Processing 517051988—OSCARPAINTS - 140141358065472
+2022-08-16 17:37:08,705 general - INFO - Processing 2725554732—Mouwasat_hosp - 140141358065472
+2022-08-16 17:37:08,722 general - INFO - Processing 1160308313126514688—Kh_alyahya - 140141358065472
+2022-08-16 17:38:05,824 general - INFO - Processing 703628844—kellana5060 - 140141358065472
+2022-08-16 17:39:01,546 general - INFO - Processing 788400618—_abeid - 140141358065472
+2022-08-16 17:39:15,530 general - INFO - Processing 923285744751439874—AhmedAlhamedFM - 140141358065472
+2022-08-16 17:39:15,537 general - INFO - Processing 831105388468633600—Mayk_O_O - 140141358065472
+2022-08-16 17:40:15,395 general - INFO - Processing 922450778551472128—MG_Saudi - 140141358065472
+2022-08-16 17:41:05,759 general - INFO - Processing 1149285205070536705—sbcsport - 140141358065472
+2022-08-16 17:41:05,802 general - INFO - Processing 1128267690026643456—spokesp_moe - 140141358065472
+2022-08-16 17:41:05,805 general - INFO - Processing 1127675149149450240—vice_higher_edu - 140141358065472
+2022-08-16 17:41:05,806 general - INFO - Processing 1127670607221612544—MinisterVice - 140141358065472
+2022-08-16 17:41:05,815 general - INFO - Processing 1123854484378140673—SFCO_KSA - 140141358065472
+2022-08-16 17:51:52,305 general - INFO - Processing 2199053841—FLORINA_SHOES - 140141358065472
+2022-08-16 17:52:45,730 general - INFO - Processing 832703795280781312—FahadM_Alotaibi - 140141358065472
+2022-08-16 17:52:45,773 general - INFO - Processing 707008171601166340—sbinnomah - 140141358065472
+2022-08-16 17:53:09,810 general - INFO - Processing 1125031294071726083—joodeskan - 140141358065472
+2022-08-16 17:53:09,824 general - INFO - Processing 1130889868584869888—SaudiPRCen - 140141358065472
+2022-08-16 17:54:09,928 general - INFO - Processing 1034294012—kscdr - 140141358065472
+2022-08-16 17:55:03,273 general - INFO - Processing 1114284942471647232—QOL_2030 - 140141358065472
+2022-08-16 17:55:33,901 general - INFO - Processing 1095698061853184000—APD_ksa - 140141358065472
+2022-08-16 17:55:33,922 general - INFO - Processing 3401129662—MawaridManpower - 140141358065472
+2022-08-16 17:55:33,928 general - INFO - Processing 997090736678961152—BankruptcyKSA - 140141358065472
+2022-08-16 17:56:14,122 general - INFO - Processing 1022392316886175744—TheDesertKSA - 140141358065472
+2022-08-16 17:56:14,134 general - INFO - Processing 1084442526914883586—SaudiNVG - 140141358065472
+2022-08-16 17:57:18,921 general - INFO - Processing 1070068012676538373—SAPSaudi - 140141358065472
+2022-08-16 18:06:50,037 general - INFO - Processing 1445992009—SaudiGAC - 140141358065472
+2022-08-16 18:06:50,085 general - INFO - Processing 3385869567—TurkiShalhoub - 140141358065472
+2022-08-16 18:07:38,091 general - INFO - Processing 928675433431871489—Prof_saadalsaud - 140141358065472
+2022-08-16 18:07:38,115 general - INFO - Processing 1075657985358221313—saudicanp - 140141358065472
+2022-08-16 18:07:38,220 general - INFO - Processing 326727427—Travel4Arab - 140141358065472
+2022-08-16 18:08:22,271 general - INFO - Processing 1078704498107916288—IbAlassaf - 140141358065472
+2022-08-16 18:08:24,420 general - INFO - Processing 1037324781400596480—spokesman_srca - 140141358065472
+2022-08-16 18:08:24,425 general - INFO - Processing 1044914099971391489—SrcaVolunteer - 140141358065472
+2022-08-16 18:08:24,477 general - INFO - Processing 329135365—ganem_q - 140141358065472
+2022-08-16 18:08:24,496 general - INFO - Processing 968746701312987140—Subdivision_sa - 140141358065472
+2022-08-16 18:08:24,499 general - INFO - Processing 960437425570025472—mostadam_sa - 140141358065472
+2022-08-16 18:08:24,500 general - INFO - Processing 938733693081931776—AWQAF_KSA - 140141358065472
+2022-08-16 18:09:19,388 general - INFO - Processing 3059575951—radwa_mzain - 140141358065472
+2022-08-16 18:09:19,424 general - INFO - Processing 956070604272259072—bainah_sa - 140141358065472
+2022-08-16 18:09:19,431 general - INFO - Processing 857167192089128960—haramainrailway - 140141358065472
+2022-08-16 18:10:10,270 general - INFO - Processing 923179017615888391—salam - 140141358065472
+2022-08-16 18:10:45,594 general - INFO - Processing 1057149702377013248—f_s_alshathri - 140141358065472
+2022-08-16 18:10:45,654 general - INFO - Processing 930341785603321857—TAHAKOOM - 140141358065472
+2022-08-16 18:11:08,141 general - INFO - Processing 834350050276950017—WareefCharity - 140141358065472
+2022-08-16 18:11:27,830 general - INFO - Processing 927186445—FAHADALRASHED15 - 140141358065472
+2022-08-16 18:11:34,466 general - INFO - Processing 1039844667150540800—SANationalDay - 140141358065472
+2022-08-16 18:21:51,433 general - INFO - Processing 1012422350409740288—Saudi_Moia - 140141358065472
+2022-08-16 18:21:51,472 general - INFO - Processing 946231624550797312—NCA_KSA - 140141358065472
+2022-08-16 18:21:51,482 general - INFO - Processing 1001387602673569792—Ibrahim_Almojel - 140141358065472
+2022-08-16 18:22:33,835 general - INFO - Processing 152025344—sami_alabidi - 140141358065472
+2022-08-16 18:22:33,856 general - INFO - Processing 997188086437171200—SA_HWY_SECURITY - 140141358065472
+2022-08-16 18:23:17,788 general - INFO - Processing 4866065512—Alsaud_History - 140141358065472
+2022-08-16 18:23:17,820 general - INFO - Processing 892348564927647745—Ahmed_S_Alrajhi - 140141358065472
+2022-08-16 18:24:09,638 general - INFO - Processing 575300433—Deutsche_Gulf - 140141358065472
+2022-08-16 18:24:09,644 general - INFO - Processing 734766017755385857—Nefaie_Majed - 140141358065472
+2022-08-16 18:24:09,693 general - INFO - Processing 791228973921492993—aliftasa - 140141358065472
+2022-08-16 18:24:49,201 general - INFO - Processing 2556956660—abnsumatani - 140141358065472
+2022-08-16 18:25:16,697 general - INFO - Processing 981490765653213184—MonshaatSAcc - 140141358065472
+2022-08-16 18:25:57,600 general - INFO - Processing 897125554134155265—SaudiFSF - 140141358065472
+2022-08-16 18:27:18,289 general - INFO - Processing 948154541022896129—modgovksa - 140141358065472
+2022-08-16 18:27:18,326 general - INFO - Processing 523269141—Rawda_Alyousef - 140141358065472
+2022-08-16 18:27:18,333 general - INFO - Processing 907139366379810816—scot_ksa - 140141358065472
+2022-08-16 18:27:18,336 general - INFO - Processing 702149288764252162—GDM_MOI - 140141358065472
+2022-08-16 18:27:18,360 general - INFO - Processing 381736992—ariyadhiah - 140141358065472
+2022-08-16 18:27:18,374 general - INFO - Processing 4534851699—Okaz_Sports - 140141358065472
+2022-08-16 18:27:18,383 general - INFO - Processing 951077090555846657—SubwaySaudi - 140141358065472
+2022-08-16 18:28:10,032 general - INFO - Processing 940960166039752705—MOJTareef - 140141358065472
+2022-08-16 18:28:10,058 general - INFO - Processing 1319900600—ABDULAHALSHAMLN - 140141358065472
+2022-08-16 18:28:56,597 general - INFO - Processing 934013675089907712—KSAchess - 140141358065472
+2022-08-16 18:36:54,282 general - INFO - Processing 248185666—2def_news - 140141358065472
+2022-08-16 18:37:31,914 general - INFO - Processing 251381807—SALEEH10 - 140141358065472
+2022-08-16 18:38:17,497 general - INFO - Processing 881711912605687808—marai_alawaji - 140141358065472
+2022-08-16 18:38:17,529 general - INFO - Processing 1051843747—SalmanAlhawawi - 140141358065472
+2022-08-16 18:38:17,545 general - INFO - Processing 869521125029683202—saudivat - 140141358065472
+2022-08-16 18:38:17,562 general - INFO - Processing 358629057—AbdullahAlzoori - 140141358065472
+2022-08-16 18:38:17,570 general - INFO - Processing 718119792—moalsharari - 140141358065472
+2022-08-16 18:38:20,487 general - ERROR - USER ID 358629057
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123356399168
+2022-08-16 18:38:47,742 general - ERROR - USER ID 869521125029683202
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123364791872
+2022-08-16 18:38:54,185 general - ERROR - USER ID 718119792
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123348006464
+2022-08-16 18:38:59,198 general - ERROR - USER ID 1051843747
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123373184576
+2022-08-16 18:39:09,922 general - ERROR - USER ID 881711912605687808
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123381577280
+2022-08-16 18:39:13,060 general - INFO - Processing 311621791—hani_alseles - 140141358065472
+2022-08-16 18:39:13,127 general - INFO - Processing 914258424262742017—F_BinHithleen - 140141358065472
+2022-08-16 18:39:30,901 general - ERROR - USER ID 914258424262742017
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123292407360
+2022-08-16 18:39:47,362 general - ERROR - USER ID 311621791
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123300800064
+2022-08-16 18:39:49,813 general - INFO - Processing 435572511—alfanar_company - 140141358065472
+2022-08-16 18:40:37,032 general - ERROR - USER ID 435572511
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123223168576
+2022-08-16 18:40:42,428 general - INFO - Processing 1423113097—SgsOrgSa - 140141358065472
+2022-08-16 18:41:19,905 general - ERROR - USER ID 1423113097
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123146585664
+2022-08-16 18:41:24,650 general - INFO - Processing 129785019—_S_alharthi - 140141358065472
+2022-08-16 18:42:00,181 general - ERROR - USER ID 129785019
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140123068954176
+2022-08-16 18:42:09,398 general - INFO - Processing 243814190—wa7eed2011 - 140141358065472
+2022-08-16 18:42:09,427 general - INFO - Processing 436414451—alarifimeshal - 140141358065472
+2022-08-16 18:42:09,428 general - INFO - Processing 788151861165559808—B8kscom - 140141358065472
+2022-08-16 18:42:15,555 general - ERROR - USER ID 436414451
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122908444224
+2022-08-16 18:42:47,556 general - ERROR - USER ID 788151861165559808
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122900051520
+2022-08-16 18:42:54,642 general - ERROR - USER ID 243814190
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122916836928
+2022-08-16 18:43:00,097 general - INFO - Processing 444834409—yasseralwadai - 140141358065472
+2022-08-16 18:43:00,169 general - INFO - Processing 85530957—Drbakkar - 140141358065472
+2022-08-16 18:43:41,754 general - ERROR - USER ID 444834409
+........
+you are over your space quota, using 516 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 516 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122762622528
+2022-08-16 18:43:45,724 general - INFO - Processing 2472745111—NaquaSeafood - 140141358065472
+2022-08-16 18:44:12,144 general - ERROR - USER ID 2472745111
+........
+you are over your space quota, using 518 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 518 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122683942464
+2022-08-16 18:44:14,161 general - INFO - Processing 341410751—SDL_sa - 140141358065472
+2022-08-16 18:44:54,912 general - ERROR - USER ID 341410751
+........
+you are over your space quota, using 518 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 518 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122607359552
+2022-08-16 18:44:57,247 general - INFO - Processing 2470691527—smi_8 - 140141358065472
+2022-08-16 18:45:39,769 general - ERROR - USER ID 2470691527
+........
+you are over your space quota, using 518 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 518 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122529728064
+2022-08-16 18:51:54,673 general - INFO - Processing 360619886—i_nashri - 140141358065472
+2022-08-16 18:51:54,682 general - INFO - Processing 329419605—uaus11 - 140141358065472
+2022-08-16 18:51:54,711 general - INFO - Processing 2367214701—577_ah - 140141358065472
+2022-08-16 18:52:29,504 general - ERROR - USER ID 360619886
+........
+you are over your space quota, using 518 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 518 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122452096576
+2022-08-16 18:52:32,862 general - INFO - Processing 2539063922—SL_org - 140141358065472
+2022-08-16 18:52:32,929 general - INFO - Processing 390954503—FSamhan - 140141358065472
+2022-08-16 18:53:03,306 general - ERROR - USER ID 2539063922
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122366076480
+2022-08-16 18:53:07,230 general - ERROR - USER ID 390954503
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122357683776
+2022-08-16 18:53:08,379 general - INFO - Processing 257982592—khaled_mab - 140141358065472
+2022-08-16 18:53:08,401 general - INFO - Processing 367840402—mtsimsim - 140141358065472
+2022-08-16 18:53:08,424 general - INFO - Processing 4171270379—REG_UOHB - 140141358065472
+2022-08-16 18:53:34,702 general - ERROR - USER ID 257982592
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122287396416
+2022-08-16 18:53:40,498 general - ERROR - USER ID 4171270379
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122270611008
+2022-08-16 18:53:45,803 general - ERROR - USER ID 367840402
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122279003712
+2022-08-16 18:53:47,053 general - INFO - Processing 864074696—ksharida1 - 140141358065472
+2022-08-16 18:53:47,113 general - INFO - Processing 525940788—barzan1386 - 140141358065472
+2022-08-16 18:53:47,166 general - INFO - Processing 4405828695—dakhel_alahmadi - 140141358065472
+2022-08-16 18:54:19,499 general - ERROR - USER ID 4405828695
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122190882368
+2022-08-16 18:54:24,708 general - ERROR - USER ID 525940788
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122199275072
+2022-08-16 18:54:34,912 general - ERROR - USER ID 864074696
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122207667776
+2022-08-16 18:54:36,124 general - INFO - Processing 440191954—AOraifi - 140141358065472
+2022-08-16 18:54:36,239 general - INFO - Processing 263685268—sultanalnefesy - 140141358065472
+2022-08-16 18:54:36,249 general - INFO - Processing 1205994456—m_khunain - 140141358065472
+2022-08-16 18:55:04,808 general - ERROR - USER ID 263685268
+........
+you are over your space quota, using 523 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 523 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122113254976
+2022-08-16 18:55:16,746 general - ERROR - USER ID 1205994456
+........
+you are over your space quota, using 525 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 525 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122104862272
+2022-08-16 18:55:18,011 general - INFO - Processing 330270438—baderalrougi - 140141358065472
+2022-08-16 18:55:48,317 general - ERROR - USER ID 330270438
+........
+you are over your space quota, using 525 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 525 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140122041919040
+2022-08-16 18:55:50,688 general - INFO - Processing 824507440427401216—Rafedcare - 140141358065472
+2022-08-16 18:55:50,733 general - INFO - Processing 869732316876349440—ariyadhiah_op - 140141358065472
+2022-08-16 18:55:50,738 general - INFO - Processing 870072224685883392—ariyadhiah_in - 140141358065472
+2022-08-16 18:55:50,743 general - INFO - Processing 869671037398601729—ariyadhiah_br - 140141358065472
+2022-08-16 18:56:15,705 general - ERROR - USER ID 870072224685883392
+........
+you are over your space quota, using 525 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 525 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121871967808
+2022-08-16 18:56:23,080 general - ERROR - USER ID 869671037398601729
+........
+you are over your space quota, using 525 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 525 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121863575104
+2022-08-16 18:56:25,398 general - ERROR - USER ID 824507440427401216
+........
+you are over your space quota, using 528 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 528 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121888753216
+2022-08-16 18:56:26,639 general - INFO - Processing 1606839571—ahmadfarraj522 - 140141358065472
+2022-08-16 18:57:03,683 general - ERROR - USER ID 1606839571
+........
+you are over your space quota, using 529 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 529 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121796441664
+2022-08-16 18:57:04,936 general - INFO - Processing 866253112046219264—sunnatvsa - 140141358065472
+2022-08-16 18:57:04,940 general - INFO - Processing 866241314052083713—qurantvsa - 140141358065472
+2022-08-16 18:57:04,949 general - INFO - Processing 384377810—ArabiaWeatherSA - 140141358065472
+2022-08-16 18:57:05,085 general - INFO - Processing 3040968044—GACACare - 140141358065472
+2022-08-16 18:57:31,346 general - ERROR - USER ID 866253112046219264
+........
+you are over your space quota, using 529 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 529 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121719858752
+2022-08-16 18:57:34,491 general - ERROR - USER ID 3040968044
+........
+you are over your space quota, using 529 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 529 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121694680640
+2022-08-16 18:57:38,343 general - ERROR - USER ID 384377810
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121703073344
+2022-08-16 18:57:39,737 general - INFO - Processing 828606936—Store2DoorME - 140141358065472
+2022-08-16 18:58:07,061 general - ERROR - USER ID 828606936
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121628595776
+2022-08-16 18:58:08,230 general - INFO - Processing 437793733—AlharthiFawaz - 140141358065472
+2022-08-16 18:58:08,288 general - INFO - Processing 459302272—Nashmi_Albaier - 140141358065472
+2022-08-16 18:58:08,294 general - INFO - Processing 527716174—fahddeepaji1 - 140141358065472
+2022-08-16 18:58:41,260 general - ERROR - USER ID 437793733
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121552012864
+2022-08-16 18:58:43,798 general - ERROR - USER ID 527716174
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121535227456
+2022-08-16 18:58:46,035 general - ERROR - USER ID 459302272
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121543620160
+2022-08-16 18:58:47,378 general - INFO - Processing 439133266—almajed118 - 140141358065472
+2022-08-16 18:59:26,811 general - ERROR - USER ID 439133266
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121472284224
+2022-08-16 18:59:28,176 general - INFO - Processing 826363876140843008—JollyChic_KSA - 140141358065472
+2022-08-16 18:59:28,187 general - INFO - Processing 326492552—AlobaidAbdullah - 140141358065472
+2022-08-16 18:59:47,946 general - ERROR - USER ID 326492552
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121386260032
+2022-08-16 19:00:00,385 general - ERROR - USER ID 826363876140843008
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121394652736
+2022-08-16 19:00:01,820 general - INFO - Processing 725628218200481792—svmedia_center - 140141358065472
+2022-08-16 19:00:27,979 general - ERROR - USER ID 725628218200481792
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121317021248
+2022-08-16 19:06:55,850 general - INFO - Processing 25939510—asami_2008 - 140141358065472
+2022-08-16 19:07:34,660 general - ERROR - USER ID 25939510
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121240438336
+2022-08-16 19:07:36,120 general - INFO - Processing 1629572888—QafilahMagazine - 140141358065472
+2022-08-16 19:08:08,908 general - ERROR - USER ID 1629572888
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121162806848
+2022-08-16 19:08:10,452 general - INFO - Processing 296207896—saeedalhelal - 140141358065472
+2022-08-16 19:09:01,548 general - ERROR - USER ID 296207896
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121085175360
+2022-08-16 19:09:03,999 general - INFO - Processing 424092197—alsles511 - 140141358065472
+2022-08-16 19:09:46,910 general - ERROR - USER ID 424092197
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140121007543872
+2022-08-16 19:09:51,355 general - INFO - Processing 1498115562—ajlanbrosaward - 140141358065472
+2022-08-16 19:09:51,407 general - INFO - Processing 545223160—Qasralawani - 140141358065472
+2022-08-16 19:09:51,426 general - INFO - Processing 66288012—z_alenazi1 - 140141358065472
+2022-08-16 19:09:51,450 general - INFO - Processing 4038565006—SaudBinQwaid - 140141358065472
+2022-08-16 19:10:05,353 general - ERROR - USER ID 1498115562
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120930960960
+2022-08-16 19:10:25,365 general - ERROR - USER ID 4038565006
+........
+you are over your space quota, using 532 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 532 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120905782848
+2022-08-16 19:10:29,242 general - ERROR - USER ID 545223160
+........
+you are over your space quota, using 535 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 535 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120922568256
+2022-08-16 19:10:32,130 general - INFO - Processing 595921974—bumedarbi - 140141358065472
+2022-08-16 19:11:08,161 general - ERROR - USER ID 595921974
+........
+you are over your space quota, using 535 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 535 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120843892288
+2022-08-16 19:11:09,970 general - INFO - Processing 387950544—hanan_hakami1 - 140141358065472
+2022-08-16 19:11:43,961 general - ERROR - USER ID 387950544
+........
+you are over your space quota, using 535 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 535 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120766260800
+2022-08-16 19:11:48,075 general - INFO - Processing 452567800—abinneheet - 140141358065472
+2022-08-16 19:12:21,651 general - ERROR - USER ID 452567800
+........
+you are over your space quota, using 535 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 535 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120613094976
+2022-08-16 19:12:23,442 general - INFO - Processing 829746884147298307—ekhbariya_eco - 140141358065472
+2022-08-16 19:12:57,006 general - ERROR - USER ID 829746884147298307
+........
+you are over your space quota, using 535 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 535 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120536512064
+2022-08-16 19:12:58,620 general - INFO - Processing 2797665776—waleedaljilani0 - 140141358065472
+2022-08-16 19:12:58,650 general - INFO - Processing 332692617—Al7babi_40 - 140141358065472
+2022-08-16 19:12:58,671 general - INFO - Processing 423648077—tvtc_pt - 140141358065472
+2022-08-16 19:12:58,698 general - INFO - Processing 453178781—ahsaic - 140141358065472
+2022-08-16 19:13:19,313 general - ERROR - USER ID 2797665776
+........
+you are over your space quota, using 535 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 535 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120457832000
+2022-08-16 19:13:32,529 general - ERROR - USER ID 332692617
+........
+you are over your space quota, using 535 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 535 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120449439296
+2022-08-16 19:13:35,510 general - ERROR - USER ID 453178781
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120432653888
+2022-08-16 19:13:39,982 general - INFO - Processing 504450612—fahadalmersal - 140141358065472
+2022-08-16 19:13:40,086 general - INFO - Processing 2891765577—AskRiyadBank - 140141358065472
+2022-08-16 19:14:05,266 general - ERROR - USER ID 2891765577
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120282641984
+2022-08-16 19:14:16,568 general - ERROR - USER ID 504450612
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120291034688
+2022-08-16 19:14:19,224 general - INFO - Processing 1562668957—SARSaudiRailway - 140141358065472
+2022-08-16 19:14:19,252 general - INFO - Processing 735827192479879168—ejar_sa - 140141358065472
+2022-08-16 19:14:19,309 general - INFO - Processing 786464238848004097—SaudiGCA - 140141358065472
+2022-08-16 19:14:46,829 general - ERROR - USER ID 735827192479879168
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120203961920
+2022-08-16 19:14:49,671 general - ERROR - USER ID 786464238848004097
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120195569216
+2022-08-16 19:14:54,051 general - ERROR - USER ID 1562668957
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120212354624
+2022-08-16 19:14:56,052 general - INFO - Processing 374638779—3madAlshareef - 140141358065472
+2022-08-16 19:14:56,057 general - INFO - Processing 851145493—drsamisalman - 140141358065472
+2022-08-16 19:14:56,071 general - INFO - Processing 403014777—BinSolaiman - 140141358065472
+2022-08-16 19:14:56,150 general - INFO - Processing 458237935—ALdainiLaw - 140141358065472
+2022-08-16 19:15:28,075 general - ERROR - USER ID 458237935
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120105350720
+2022-08-16 19:15:30,484 general - ERROR - USER ID 403014777
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120113743424
+2022-08-16 19:15:33,455 general - ERROR - USER ID 374638779
+........
+you are over your space quota, using 538 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 538 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120130528832
+2022-08-16 19:21:57,205 general - INFO - Processing 4897143069—SABAssociation - 140141358065472
+2022-08-16 19:21:57,239 general - INFO - Processing 579603424—SafforiLand - 140141358065472
+2022-08-16 19:21:57,284 general - INFO - Processing 368011536—Talal_Alshaikh - 140141358065472
+2022-08-16 19:22:29,777 general - ERROR - USER ID 368011536
+........
+you are over your space quota, using 541 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 541 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120023529024
+2022-08-16 19:22:33,983 general - ERROR - USER ID 579603424
+........
+you are over your space quota, using 544 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 544 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140120031921728
+2022-08-16 19:22:35,151 general - INFO - Processing 4699991601—b_otyf - 140141358065472
+2022-08-16 19:23:14,111 general - ERROR - USER ID 4699991601
+........
+you are over your space quota, using 544 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 544 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119958488640
+2022-08-16 19:23:15,520 general - INFO - Processing 481981210—jasseralsagri - 140141358065472
+2022-08-16 19:23:53,378 general - ERROR - USER ID 481981210
+........
+you are over your space quota, using 544 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 544 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119881905728
+2022-08-16 19:23:54,497 general - INFO - Processing 387117607—quran_gov - 140141358065472
+2022-08-16 19:24:39,665 general - ERROR - USER ID 387117607
+........
+you are over your space quota, using 544 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 544 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119804274240
+2022-08-16 19:24:40,782 general - INFO - Processing 565660598—haniwafa59 - 140141358065472
+2022-08-16 19:24:40,817 general - INFO - Processing 560344429—mohd_alshunifi - 140141358065472
+2022-08-16 19:24:40,837 general - INFO - Processing 2574462672—MOE_HHL - 140141358065472
+2022-08-16 19:25:16,868 general - ERROR - USER ID 2574462672
+........
+you are over your space quota, using 544 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 544 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119709857344
+2022-08-16 19:25:20,377 general - INFO - Processing 528870804—mnsoormsd - 140141358065472
+2022-08-16 19:25:51,168 general - ERROR - USER ID 528870804
+........
+you are over your space quota, using 549 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 549 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119639574080
+2022-08-16 19:25:52,360 general - INFO - Processing 1142288065—sulimanalmanah - 140141358065472
+2022-08-16 19:25:52,376 general - INFO - Processing 184973419—NajeebZamil - 140141358065472
+2022-08-16 19:25:52,409 general - INFO - Processing 361643606—m_almawasi - 140141358065472
+2022-08-16 19:25:52,414 general - INFO - Processing 327326145—Qasem_alzarea - 140141358065472
+2022-08-16 19:26:15,862 general - ERROR - USER ID 1142288065
+........
+you are over your space quota, using 549 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 549 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119562991168
+2022-08-16 19:26:21,548 general - ERROR - USER ID 327326145
+........
+you are over your space quota, using 549 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 549 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119537813056
+2022-08-16 19:26:26,343 general - ERROR - USER ID 361643606
+........
+you are over your space quota, using 549 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 549 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119546205760
+2022-08-16 19:26:29,503 general - INFO - Processing 318824149—m_alyoum - 140141358065472
+2022-08-16 19:27:13,811 general - ERROR - USER ID 318824149
+........
+you are over your space quota, using 552 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 552 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119478019648
+2022-08-16 19:27:14,858 general - INFO - Processing 358056277—wldmlk - 140141358065472
+2022-08-16 19:27:14,895 general - INFO - Processing 1227809468—AlManeaCo - 140141358065472
+2022-08-16 19:27:14,914 general - INFO - Processing 363644606—reazqi - 140141358065472
+2022-08-16 19:27:14,932 general - INFO - Processing 1482090475—abdullah_mrzog1 - 140141358065472
+2022-08-16 19:27:44,578 general - ERROR - USER ID 358056277
+........
+you are over your space quota, using 552 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 552 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119399339584
+2022-08-16 19:27:49,435 general - ERROR - USER ID 1482090475
+........
+you are over your space quota, using 552 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 552 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119374161472
+2022-08-16 19:27:53,392 general - ERROR - USER ID 363644606
+........
+you are over your space quota, using 552 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 552 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119382554176
+2022-08-16 19:27:55,403 general - ERROR - USER ID 1227809468
+........
+you are over your space quota, using 552 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 552 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119390946880
+2022-08-16 19:27:56,573 general - INFO - Processing 445432974—H_kadesh - 140141358065472
+2022-08-16 19:27:56,582 general - INFO - Processing 1642067372—MERiAM_AL3TEEBE - 140141358065472
+2022-08-16 19:27:56,643 general - INFO - Processing 222755860—fahedloweehig - 140141358065472
+2022-08-16 19:27:56,646 general - INFO - Processing 851630618—sabqqorg - 140141358065472
+2022-08-16 19:28:08,530 general - ERROR - USER ID 445432974
+........
+you are over your space quota, using 552 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 552 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119313319488
+2022-08-16 19:28:29,900 general - ERROR - USER ID 222755860
+........
+you are over your space quota, using 552 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 552 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119296534080
+2022-08-16 19:28:33,772 general - ERROR - USER ID 851630618
+........
+you are over your space quota, using 555 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 555 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119288141376
+2022-08-16 19:28:34,967 general - INFO - Processing 386767764—Az_Althobaiti - 140141358065472
+2022-08-16 19:28:34,977 general - INFO - Processing 1688776472—mvt_ksa - 140141358065472
+2022-08-16 19:28:57,307 general - ERROR - USER ID 386767764
+........
+you are over your space quota, using 555 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 555 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119228347968
+2022-08-16 19:29:01,950 general - ERROR - USER ID 1688776472
+........
+you are over your space quota, using 555 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 555 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119219955264
+2022-08-16 19:29:03,212 general - INFO - Processing 701297742602174464—chp_sa - 140141358065472
+2022-08-16 19:29:03,218 general - INFO - Processing 197351064—drsamia - 140141358065472
+2022-08-16 19:29:03,225 general - INFO - Processing 255949459—Nawal_Al3eed_ - 140141358065472
+2022-08-16 19:29:03,246 general - INFO - Processing 412039568—msultan444 - 140141358065472
+2022-08-16 19:29:03,256 general - INFO - Processing 268449487—AAlqaraawi - 140141358065472
+2022-08-16 19:29:11,464 general - ERROR - USER ID 412039568
+........
+you are over your space quota, using 555 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 555 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119126586944
+2022-08-16 19:29:36,269 general - ERROR - USER ID 701297742602174464
+........
+you are over your space quota, using 556 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 556 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119151765056
+2022-08-16 19:29:40,708 general - ERROR - USER ID 197351064
+........
+you are over your space quota, using 556 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 556 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119143372352
+2022-08-16 19:29:43,248 general - ERROR - USER ID 268449487
+........
+you are over your space quota, using 556 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 556 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119118194240
+2022-08-16 19:29:44,427 general - INFO - Processing 354663932—hussin11hussin - 140141358065472
+2022-08-16 19:30:19,290 general - ERROR - USER ID 354663932
+........
+you are over your space quota, using 556 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 556 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140119063647808
+2022-08-16 19:30:20,409 general - INFO - Processing 2514967065—hamdy_s_t - 140141358065472
+2022-08-16 19:30:20,427 general - INFO - Processing 560446437—hajis9 - 140141358065472
+2022-08-16 19:30:20,428 general - INFO - Processing 1004297904—a_h_alsulame - 140141358065472
+2022-08-16 19:30:20,466 general - INFO - Processing 560642472—arabrcrc - 140141358065472
+2022-08-16 19:30:21,811 general - ERROR - USER ID 1004297904
+........
+you are over your space quota, using 556 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 556 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118969230912
+2022-08-16 19:30:55,582 general - ERROR - USER ID 2514967065
+........
+you are over your space quota, using 556 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 556 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118986016320
+2022-08-16 19:30:59,001 general - INFO - Processing 486078933—Ali_alowifi - 140141358065472
+2022-08-16 19:30:59,017 general - INFO - Processing 1312341738—Label - 140141358065472
+2022-08-16 19:30:59,024 general - INFO - Processing 340424461—Aimantoon - 140141358065472
+2022-08-16 19:30:59,055 general - INFO - Processing 855481292—T__2013 - 140141358065472
+2022-08-16 19:31:00,437 general - ERROR - USER ID 1312341738
+........
+you are over your space quota, using 562 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 562 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118895797824
+2022-08-16 19:31:16,097 general - ERROR - USER ID 855481292
+........
+you are over your space quota, using 562 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 562 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118879012416
+2022-08-16 19:31:37,822 general - ERROR - USER ID 486078933
+........
+you are over your space quota, using 562 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 562 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118904190528
+2022-08-16 19:31:43,527 general - ERROR - USER ID 340424461
+........
+you are over your space quota, using 562 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 562 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118887405120
+2022-08-16 19:36:59,436 general - INFO - Processing 969532896—estithmarOrg - 140141358065472
+2022-08-16 19:36:59,475 general - INFO - Processing 1656652772—msna_20 - 140141358065472
+2022-08-16 19:36:59,479 general - INFO - Processing 2887855261—almymn - 140141358065472
+2022-08-16 19:37:23,118 general - ERROR - USER ID 969532896
+........
+you are over your space quota, using 562 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 562 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118823413312
+2022-08-16 19:37:33,525 general - ERROR - USER ID 1656652772
+........
+you are over your space quota, using 562 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 562 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118815020608
+2022-08-16 19:37:35,886 general - INFO - Processing 479999041—Dsa1333 - 140141358065472
+2022-08-16 19:37:35,927 general - INFO - Processing 190799682—binfrihan - 140141358065472
+2022-08-16 19:38:09,075 general - ERROR - USER ID 190799682
+........
+you are over your space quota, using 565 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 565 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118734243392
+2022-08-16 19:38:11,346 general - ERROR - USER ID 479999041
+........
+you are over your space quota, using 565 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 565 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118742636096
+2022-08-16 19:38:12,528 general - INFO - Processing 250029405—oteefmohd - 140141358065472
+2022-08-16 19:38:12,533 general - INFO - Processing 420686056—ALOKEMEabdualrh - 140141358065472
+2022-08-16 19:38:12,542 general - INFO - Processing 251863095—Musaid_AlSohimi - 140141358065472
+2022-08-16 19:38:12,553 general - INFO - Processing 403405822—alssunnah - 140141358065472
+2022-08-16 19:38:12,563 general - INFO - Processing 547875847—aiydhalqhtani - 140141358065472
+2022-08-16 19:38:12,569 general - INFO - Processing 1348547953—MaharaHR - 140141358065472
+2022-08-16 19:38:40,380 general - ERROR - USER ID 1348547953
+........
+you are over your space quota, using 565 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 565 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118619895360
+2022-08-16 19:38:44,489 general - ERROR - USER ID 420686056
+........
+you are over your space quota, using 568 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 568 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118653466176
+2022-08-16 19:38:48,101 general - ERROR - USER ID 403405822
+........
+you are over your space quota, using 568 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 568 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118636680768
+2022-08-16 19:38:51,325 general - ERROR - USER ID 251863095
+........
+you are over your space quota, using 571 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 571 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118645073472
+2022-08-16 19:38:52,475 general - INFO - Processing 416103081—AdfGovSa - 140141358065472
+2022-08-16 19:38:52,493 general - INFO - Processing 702882464432312320—Almowaten_sport - 140141358065472
+2022-08-16 19:38:52,504 general - INFO - Processing 874531374—alrslani20 - 140141358065472
+2022-08-16 19:39:21,735 general - ERROR - USER ID 874531374
+........
+you are over your space quota, using 571 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 571 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118535984704
+2022-08-16 19:39:26,339 general - ERROR - USER ID 702882464432312320
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118544377408
+2022-08-16 19:39:27,350 general - INFO - Processing 250902954—aa_hosain - 140141358065472
+2022-08-16 19:39:27,362 general - INFO - Processing 461479372—dahash333 - 140141358065472
+2022-08-16 19:39:58,197 general - ERROR - USER ID 461479372
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118462551616
+2022-08-16 19:40:00,577 general - ERROR - USER ID 250902954
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118470944320
+2022-08-16 19:40:01,745 general - INFO - Processing 588714735—alsaifgallery - 140141358065472
+2022-08-16 19:40:01,746 general - INFO - Processing 355016164—F_Alsmaihy - 140141358065472
+2022-08-16 19:40:01,762 general - INFO - Processing 557717547—alrogi_dr - 140141358065472
+2022-08-16 19:40:01,786 general - INFO - Processing 535864454—mohammed2_al - 140141358065472
+2022-08-16 19:40:01,804 general - INFO - Processing 431416067—amushabab - 140141358065472
+2022-08-16 19:40:24,669 general - ERROR - USER ID 557717547
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118375478848
+2022-08-16 19:40:31,467 general - ERROR - USER ID 535864454
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118367086144
+2022-08-16 19:40:35,452 general - ERROR - USER ID 431416067
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118358693440
+2022-08-16 19:40:37,749 general - ERROR - USER ID 588714735
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118392264256
+2022-08-16 19:40:41,302 general - ERROR - USER ID 355016164
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118383871552
+2022-08-16 19:40:42,549 general - INFO - Processing 739416211—WadhefaDotCom - 140141358065472
+2022-08-16 19:40:42,570 general - INFO - Processing 518541839—om83ar - 140141358065472
+2022-08-16 19:40:42,584 general - INFO - Processing 412165629—FawazAlshreef - 140141358065472
+2022-08-16 19:41:20,299 general - ERROR - USER ID 412165629
+........
+you are over your space quota, using 574 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 574 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118289458752
+2022-08-16 19:41:23,717 general - ERROR - USER ID 739416211
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118306244160
+2022-08-16 19:41:24,802 general - INFO - Processing 448432466—F_SaifAlNaser - 140141358065472
+2022-08-16 19:41:54,794 general - ERROR - USER ID 448432466
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118223369792
+2022-08-16 19:41:55,775 general - INFO - Processing 359521098—khalideleridy - 140141358065472
+2022-08-16 19:41:55,782 general - INFO - Processing 1462037376—WafaAlrajeh - 140141358065472
+2022-08-16 19:41:55,796 general - INFO - Processing 188384392—sa9191 - 140141358065472
+2022-08-16 19:42:22,806 general - ERROR - USER ID 1462037376
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118138394176
+2022-08-16 19:42:26,981 general - ERROR - USER ID 359521098
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118146786880
+2022-08-16 19:42:31,726 general - ERROR - USER ID 188384392
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118130001472
+2022-08-16 19:42:32,840 general - INFO - Processing 3226176715—sayidyofficial - 140141358065472
+2022-08-16 19:42:32,875 general - INFO - Processing 1697590201—yasir_saidan - 140141358065472
+2022-08-16 19:42:32,904 general - INFO - Processing 504790403—ibn_Almubarak - 140141358065472
+2022-08-16 19:42:41,547 general - ERROR - USER ID 504790403
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118050272832
+2022-08-16 19:43:08,095 general - ERROR - USER ID 1697590201
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118058665536
+2022-08-16 19:43:21,641 general - ERROR - USER ID 3226176715
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140118067058240
+2022-08-16 19:43:22,838 general - INFO - Processing 1067974057—seaksaorg - 140141358065472
+2022-08-16 19:43:22,868 general - INFO - Processing 227057002—makharesh - 140141358065472
+2022-08-16 19:44:02,837 general - ERROR - USER ID 1067974057
+........
+you are over your space quota, using 577 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 577 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117987329600
+2022-08-16 19:44:05,341 general - INFO - Processing 2273161651—AlqassimCo - 140141358065472
+2022-08-16 19:44:05,354 general - INFO - Processing 484274709—beso_b13 - 140141358065472
+2022-08-16 19:44:05,379 general - INFO - Processing 257104223—BADR_ALRAJHI - 140141358065472
+2022-08-16 19:44:05,392 general - INFO - Processing 426750928—alfadguc - 140141358065472
+2022-08-16 19:44:05,401 general - INFO - Processing 326664326—ahmadassiri1 - 140141358065472
+2022-08-16 19:44:05,424 general - INFO - Processing 446554351—yakfek - 140141358065472
+2022-08-16 19:44:36,652 general - ERROR - USER ID 426750928
+........
+503 Service Unavailable
+Service Unavailable
+........
+ - 140117883471424
+2022-08-16 19:44:36,971 general - ERROR - USER ID 326664326
+........
+you are over your space quota, using 580 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 580 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117875078720
+2022-08-16 19:44:39,111 general - ERROR - USER ID 484274709
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117900256832
+2022-08-16 19:44:43,910 general - ERROR - USER ID 257104223
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117891864128
+2022-08-16 19:44:49,751 general - ERROR - USER ID 446554351
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117866686016
+2022-08-16 19:44:50,828 general - INFO - Processing 453122833—MohdAlqadadi - 140141358065472
+2022-08-16 19:44:50,881 general - INFO - Processing 3636701894—alahliestore - 140141358065472
+2022-08-16 19:44:56,768 general - ERROR - USER ID 3636701894
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117785925184
+2022-08-16 19:45:29,075 general - ERROR - USER ID 453122833
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117794317888
+2022-08-16 19:45:30,793 general - INFO - Processing 426813415—h_albogami - 140141358065472
+2022-08-16 19:46:06,272 general - ERROR - USER ID 426813415
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117718783552
+2022-08-16 19:46:07,466 general - INFO - Processing 2895804259—iFouaad - 140141358065472
+2022-08-16 19:46:07,493 general - INFO - Processing 376709582—s9our - 140141358065472
+2022-08-16 19:46:07,514 general - INFO - Processing 82182654—shlash2020 - 140141358065472
+2022-08-16 19:46:07,545 general - INFO - Processing 3072735678—paralympic_sa - 140141358065472
+2022-08-16 19:46:41,843 general - ERROR - USER ID 2895804259
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117643249216
+2022-08-16 19:46:47,733 general - ERROR - USER ID 82182654
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117626463808
+2022-08-16 19:46:53,190 general - ERROR - USER ID 3072735678
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117618071104
+2022-08-16 19:46:57,602 general - ERROR - USER ID 376709582
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117634856512
+2022-08-16 19:52:01,129 general - INFO - Processing 962936150—muath_aljmaz - 140141358065472
+2022-08-16 19:52:01,138 general - INFO - Processing 406617068—n_almuzaireeb - 140141358065472
+2022-08-16 19:52:01,148 general - INFO - Processing 233406420—MFaresALotaibi - 140141358065472
+2022-08-16 19:52:21,454 general - ERROR - USER ID 962936150
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117564569152
+2022-08-16 19:52:29,983 general - ERROR - USER ID 406617068
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117556176448
+2022-08-16 19:52:32,473 general - ERROR - USER ID 233406420
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117547783744
+2022-08-16 19:52:33,993 general - INFO - Processing 116677505—almonajjid - 140141358065472
+2022-08-16 19:52:34,005 general - INFO - Processing 468595530—NoorNnnnn14 - 140141358065472
+2022-08-16 19:53:05,131 general - ERROR - USER ID 116677505
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117484840512
+2022-08-16 19:53:07,250 general - ERROR - USER ID 468595530
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117476447808
+2022-08-16 19:53:08,368 general - INFO - Processing 490564280—Zeyad_jehani - 140141358065472
+2022-08-16 19:53:08,382 general - INFO - Processing 2537163528—SaudiSwimming - 140141358065472
+2022-08-16 19:53:08,387 general - INFO - Processing 2179780080—KAQAORG - 140141358065472
+2022-08-16 19:53:08,431 general - INFO - Processing 330530137—khaled_alhussan - 140141358065472
+2022-08-16 19:53:08,436 general - INFO - Processing 423718399—adelalmulhim - 140141358065472
+2022-08-16 19:53:25,824 general - ERROR - USER ID 2537163528
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117397767744
+2022-08-16 19:53:38,946 general - ERROR - USER ID 423718399
+........
+you are over your space quota, using 583 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 583 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117372589632
+2022-08-16 19:53:41,345 general - ERROR - USER ID 2179780080
+........
+you are over your space quota, using 586 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 586 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117389375040
+2022-08-16 19:53:43,424 general - INFO - Processing 1366848734—almarieibrahim - 140141358065472
+2022-08-16 19:53:43,469 general - INFO - Processing 263616623—abo_asseel - 140141358065472
+2022-08-16 19:54:11,491 general - ERROR - USER ID 1366848734
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117319091776
+2022-08-16 19:54:16,935 general - ERROR - USER ID 263616623
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117310699072
+2022-08-16 19:54:19,415 general - INFO - Processing 129161930—BASSAM_FATINY - 140141358065472
+2022-08-16 19:54:49,923 general - ERROR - USER ID 129161930
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117164877376
+2022-08-16 19:54:51,037 general - INFO - Processing 310400129—Mangojazan - 140141358065472
+2022-08-16 19:55:25,113 general - ERROR - USER ID 310400129
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140117088294464
+2022-08-16 19:55:27,644 general - INFO - Processing 241847517—DanubeCo - 140141358065472
+2022-08-16 19:55:27,717 general - INFO - Processing 119352007—alduhaim - 140141358065472
+2022-08-16 19:55:54,863 general - ERROR - USER ID 119352007
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116926735936
+2022-08-16 19:55:57,453 general - ERROR - USER ID 241847517
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116935128640
+2022-08-16 19:55:58,564 general - INFO - Processing 346437678—SaudiProject - 140141358065472
+2022-08-16 19:55:58,582 general - INFO - Processing 115486067—SaudiCMA - 140141358065472
+2022-08-16 19:55:58,600 general - INFO - Processing 70844028—TravelerPedia - 140141358065472
+2022-08-16 19:55:58,615 general - INFO - Processing 401363743—NGHAnews - 140141358065472
+2022-08-16 19:55:58,623 general - INFO - Processing 460543154—NayefBinMamdooh - 140141358065472
+2022-08-16 19:56:26,322 general - ERROR - USER ID 460543154
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116822877760
+2022-08-16 19:56:28,079 general - ERROR - USER ID 115486067
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116848055872
+2022-08-16 19:56:33,695 general - ERROR - USER ID 70844028
+........
+you are over your space quota, using 589 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 589 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116839663168
+2022-08-16 19:56:41,737 general - ERROR - USER ID 401363743
+........
+you are over your space quota, using 592 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 592 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116831270464
+2022-08-16 19:56:42,824 general - INFO - Processing 532607879—TurkiQashlan - 140141358065472
+2022-08-16 19:57:15,509 general - ERROR - USER ID 532607879
+........
+you are over your space quota, using 592 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 592 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116753651264
+2022-08-16 19:57:18,287 general - INFO - Processing 253714528—fisalam - 140141358065472
+2022-08-16 19:57:18,337 general - INFO - Processing 384785553—mjeedalfawzan - 140141358065472
+2022-08-16 19:57:46,263 general - ERROR - USER ID 384785553
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116593141312
+2022-08-16 19:57:51,520 general - ERROR - USER ID 253714528
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116601534016
+2022-08-16 19:57:54,105 general - INFO - Processing 376155465—kaahe_org - 140141358065472
+2022-08-16 19:58:37,514 general - ERROR - USER ID 376155465
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116448368192
+2022-08-16 20:07:03,620 general - INFO - Processing 335603719—albargawy - 140141358065472
+2022-08-16 20:07:37,020 general - ERROR - USER ID 335603719
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116370736704
+2022-08-16 20:07:39,426 general - INFO - Processing 588189233—ali_alfaisall - 140141358065472
+2022-08-16 20:08:13,830 general - ERROR - USER ID 588189233
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140116217570880
+2022-08-16 20:08:21,584 general - INFO - Processing 449123649—abdulnassersa - 140141358065472
+2022-08-16 20:08:58,025 general - ERROR - USER ID 449123649
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115763316288
+2022-08-16 20:08:59,182 general - INFO - Processing 404354880—FAbaalkhail - 140141358065472
+2022-08-16 20:09:27,133 general - ERROR - USER ID 404354880
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115686733376
+2022-08-16 20:09:28,421 general - INFO - Processing 225083840—saudalkhalaf - 140141358065472
+2022-08-16 20:09:28,441 general - INFO - Processing 599839902—Bursa_Carpet - 140141358065472
+2022-08-16 20:09:56,853 general - ERROR - USER ID 599839902
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115600709184
+2022-08-16 20:09:59,462 general - ERROR - USER ID 225083840
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115609101888
+2022-08-16 20:10:00,701 general - INFO - Processing 250565797—Bin_Nomah - 140141358065472
+2022-08-16 20:10:40,082 general - ERROR - USER ID 250565797
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115530421824
+2022-08-16 20:10:41,330 general - INFO - Processing 1319751930—RAHA_KSA - 140141358065472
+2022-08-16 20:11:10,542 general - ERROR - USER ID 1319751930
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115453838912
+2022-08-16 20:11:11,809 general - INFO - Processing 3139871250—Altunisi_M - 140141358065472
+2022-08-16 20:11:44,355 general - ERROR - USER ID 3139871250
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115376207424
+2022-08-16 20:11:45,602 general - INFO - Processing 2880499200—farmsaudiarabia - 140141358065472
+2022-08-16 20:11:45,630 general - INFO - Processing 713099093522911232—naif_alromi - 140141358065472
+2022-08-16 20:11:45,634 general - INFO - Processing 712165271235076096—pcare_ksa - 140141358065472
+2022-08-16 20:11:49,789 general - ERROR - USER ID 713099093522911232
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115290183232
+2022-08-16 20:12:21,959 general - ERROR - USER ID 712165271235076096
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115281790528
+2022-08-16 20:12:22,958 general - ERROR - USER ID 2880499200
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115298575936
+2022-08-16 20:22:04,872 general - INFO - Processing 281170553—AlmajdChannels - 140141358065472
+2022-08-16 20:22:04,894 general - INFO - Processing 316752644—MOTEBABDULLAH - 140141358065472
+2022-08-16 20:22:04,901 general - INFO - Processing 568914550—SASCO_KSA - 140141358065472
+2022-08-16 20:22:37,294 general - ERROR - USER ID 568914550
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115198916160
+2022-08-16 20:22:39,420 general - ERROR - USER ID 316752644
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115207308864
+2022-08-16 20:22:41,755 general - ERROR - USER ID 281170553
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140115215701568
+2022-08-16 20:22:46,563 general - INFO - Processing 355169856—saad_alkhathlan - 140141358065472
+2022-08-16 20:22:46,619 general - INFO - Processing 4414615707—alghadeu - 140141358065472
+2022-08-16 20:22:46,624 general - INFO - Processing 1563408608—CareemKSA - 140141358065472
+2022-08-16 20:23:17,958 general - ERROR - USER ID 4414615707
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114891540032
+2022-08-16 20:23:20,776 general - ERROR - USER ID 1563408608
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114883147328
+2022-08-16 20:23:35,709 general - ERROR - USER ID 355169856
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114899932736
+2022-08-16 20:23:36,749 general - INFO - Processing 2823645343—saudiskills - 140141358065472
+2022-08-16 20:23:48,256 general - ERROR - USER ID 2823645343
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114814961216
+2022-08-16 20:23:49,451 general - INFO - Processing 4927391963—MATARAT_KSA - 140141358065472
+2022-08-16 20:23:49,481 general - INFO - Processing 555041114—swcc_ksa - 140141358065472
+2022-08-16 20:23:57,999 general - ERROR - USER ID 4927391963
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114738378304
+2022-08-16 20:24:25,178 general - ERROR - USER ID 555041114
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114729985600
+2022-08-16 20:24:27,621 general - INFO - Processing 636184033—HRCSaudi - 140141358065472
+2022-08-16 20:24:58,562 general - ERROR - USER ID 636184033
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114585212480
+2022-08-16 20:25:01,516 general - INFO - Processing 3185045156—MOETawasul - 140141358065472
+2022-08-16 20:25:26,626 general - ERROR - USER ID 3185045156
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114508629568
+2022-08-16 20:25:27,794 general - INFO - Processing 3039271374—inspireU_stc - 140141358065472
+2022-08-16 20:25:53,319 general - ERROR - USER ID 3039271374
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114430998080
+2022-08-16 20:25:57,150 general - INFO - Processing 2918728980—alKahrabaFriend - 140141358065472
+2022-08-16 20:26:21,692 general - ERROR - USER ID 2918728980
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114203346496
+2022-08-16 20:37:05,785 general - INFO - Processing 399640071—BedayaTv - 140141358065472
+2022-08-16 20:37:05,850 general - INFO - Processing 4263068945—Nazaha_care - 140141358065472
+2022-08-16 20:37:33,584 general - ERROR - USER ID 4263068945
+........
+you are over your space quota, using 593 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 593 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140114041787968
+2022-08-16 20:37:35,798 general - INFO - Processing 523036277—benaa1431 - 140141358065472
+2022-08-16 20:38:10,529 general - ERROR - USER ID 523036277
+........
+you are over your space quota, using 595 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 595 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140113970452032
+2022-08-16 20:38:15,670 general - INFO - Processing 521254888—HamadAlDhewalia - 140141358065472
+2022-08-16 20:38:53,566 general - ERROR - USER ID 521254888
+........
+you are over your space quota, using 595 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 595 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140113666217536
+2022-08-16 20:38:57,545 general - INFO - Processing 317030516—PmeMediacen - 140141358065472
+2022-08-16 20:39:32,902 general - ERROR - USER ID 317030516
+........
+you are over your space quota, using 595 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 595 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140113437517376
+2022-08-16 20:39:34,092 general - INFO - Processing 36022228—albaik - 140141358065472
+2022-08-16 20:39:34,174 general - INFO - Processing 3239958524—NCSSKSA - 140141358065472
+2022-08-16 20:39:41,228 general - ERROR - USER ID 3239958524
+........
+you are over your space quota, using 595 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 595 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140113346250304
+2022-08-16 20:39:57,196 general - ERROR - USER ID 36022228
+........
+you are over your space quota, using 595 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 595 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140113354643008
+2022-08-16 20:40:01,680 general - INFO - Processing 3095308009—Darahfoundation - 140141358065472
+2022-08-16 20:40:01,683 general - INFO - Processing 379610734—JPaintsKSA - 140141358065472
+2022-08-16 20:40:01,695 general - INFO - Processing 332341805—SPL - 140141358065472
+2022-08-16 20:40:31,784 general - ERROR - USER ID 379610734
+........
+you are over your space quota, using 595 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 595 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140113044112960
+2022-08-16 20:40:36,150 general - ERROR - USER ID 3095308009
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140113052505664
+2022-08-16 20:40:37,294 general - INFO - Processing 2199249653—SchsOrg - 140141358065472
+2022-08-16 20:41:04,929 general - ERROR - USER ID 2199249653
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112963339840
+2022-08-16 20:52:08,318 general - INFO - Processing 3152507089—NorthborderSA - 140141358065472
+2022-08-16 20:52:39,742 general - ERROR - USER ID 3152507089
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112810174016
+2022-08-16 20:52:41,025 general - INFO - Processing 3115052270—ahwalds - 140141358065472
+2022-08-16 20:52:41,029 general - INFO - Processing 245266877—jedgovsa - 140141358065472
+2022-08-16 20:53:02,469 general - ERROR - USER ID 3115052270
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112732542528
+2022-08-16 20:53:14,525 general - ERROR - USER ID 245266877
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112724149824
+2022-08-16 20:53:20,763 general - INFO - Processing 3235871559—AdelAljubeir - 140141358065472
+2022-08-16 20:53:28,709 general - ERROR - USER ID 3235871559
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112350676544
+2022-08-16 20:53:32,418 general - INFO - Processing 3141781482—ksagaca - 140141358065472
+2022-08-16 20:53:32,478 general - INFO - Processing 520256091—FollowVenus - 140141358065472
+2022-08-16 20:53:32,575 general - INFO - Processing 1576877292—bip_ksa - 140141358065472
+2022-08-16 20:53:34,929 general - ERROR - USER ID 520256091
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112115680832
+2022-08-16 20:53:57,611 general - ERROR - USER ID 1576877292
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112107288128
+2022-08-16 20:54:07,687 general - ERROR - USER ID 3141781482
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112124073536
+2022-08-16 20:54:08,793 general - INFO - Processing 483254379—SalamaWas - 140141358065472
+2022-08-16 20:54:42,616 general - ERROR - USER ID 483254379
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140112045393472
+2022-08-16 20:54:45,210 general - INFO - Processing 3077201206—Be_regular_ksa - 140141358065472
+2022-08-16 20:54:45,802 general - ERROR - USER ID 3077201206
+........
+documents must be a non-empty list
+........
+ - 140111892227648
+2022-08-16 21:07:09,334 general - INFO - Processing 2990722260—ShuraCouncil_SA - 140141358065472
+2022-08-16 21:07:39,392 general - ERROR - USER ID 2990722260
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140111665624640
+2022-08-16 21:07:44,975 general - INFO - Processing 957453487—RabeaTea - 140141358065472
+2022-08-16 21:08:18,175 general - ERROR - USER ID 957453487
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140111362438720
+2022-08-16 21:08:20,462 general - INFO - Processing 1217538564—mediasrca - 140141358065472
+2022-08-16 21:08:54,448 general - ERROR - USER ID 1217538564
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140111209272896
+2022-08-16 21:08:55,644 general - INFO - Processing 275698897—Mokafha_SA - 140141358065472
+2022-08-16 21:09:31,234 general - ERROR - USER ID 275698897
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140111131641408
+2022-08-16 21:09:37,644 general - INFO - Processing 291887869—riyadiyatv - 140141358065472
+2022-08-16 21:09:37,645 general - INFO - Processing 288921525—QuranRadio_ksa - 140141358065472
+2022-08-16 21:09:37,645 general - INFO - Processing 1565329490—Jeddah_Radio - 140141358065472
+2022-08-16 21:09:37,648 general - INFO - Processing 627167084—neda_radio - 140141358065472
+2022-08-16 21:10:10,314 general - ERROR - USER ID 288921525
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110742431296
+2022-08-16 21:10:13,231 general - ERROR - USER ID 1565329490
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110725645888
+2022-08-16 21:10:17,891 general - ERROR - USER ID 291887869
+........
+you are over your space quota, using 598 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 598 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110750824000
+2022-08-16 21:22:08,901 general - INFO - Processing 287309278—khaledaloqaily - 140141358065472
+2022-08-16 21:22:08,929 general - INFO - Processing 522071052—nazaha_gov_sa - 140141358065472
+2022-08-16 21:22:37,954 general - ERROR - USER ID 522071052
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110553613888
+2022-08-16 21:22:42,998 general - ERROR - USER ID 287309278
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110562006592
+2022-08-16 21:22:47,665 general - INFO - Processing 551671525—Saudi_EUni - 140141358065472
+2022-08-16 21:22:47,689 general - INFO - Processing 2362483891—doux_ksa - 140141358065472
+2022-08-16 21:23:15,192 general - ERROR - USER ID 2362483891
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110251476544
+2022-08-16 21:23:20,093 general - ERROR - USER ID 551671525
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110259869248
+2022-08-16 21:23:22,361 general - INFO - Processing 2257647368—EtecKsa - 140141358065472
+2022-08-16 21:23:55,308 general - ERROR - USER ID 2257647368
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110106703424
+2022-08-16 21:23:56,581 general - INFO - Processing 59118588—SaharaNet - 140141358065472
+2022-08-16 21:24:26,330 general - ERROR - USER ID 59118588
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140110030120512
+2022-08-16 21:24:29,968 general - INFO - Processing 284991023—zmzm290 - 140141358065472
+2022-08-16 21:25:01,802 general - ERROR - USER ID 284991023
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140109801420352
+2022-08-16 21:25:04,234 general - INFO - Processing 71252061—KKFoundation - 140141358065472
+2022-08-16 21:25:37,972 general - ERROR - USER ID 71252061
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140109649303104
+2022-08-16 21:25:39,251 general - INFO - Processing 303751435—MojKsa - 140141358065472
+2022-08-16 21:26:13,966 general - ERROR - USER ID 303751435
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140109571671616
+2022-08-16 21:26:15,118 general - INFO - Processing 2197308494—makkahnp - 140141358065472
+2022-08-16 21:26:15,160 general - INFO - Processing 214060211—ALKAFFARYGROUP - 140141358065472
+2022-08-16 21:26:49,548 general - ERROR - USER ID 2197308494
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140109494040128
+2022-08-16 21:26:52,895 general - ERROR - USER ID 214060211
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140109485647424
+2022-08-16 21:37:09,836 general - INFO - Processing 269743653—ufmradio - 140141358065472
+2022-08-16 21:37:49,231 general - ERROR - USER ID 269743653
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140109412214336
+2022-08-16 21:37:51,596 general - INFO - Processing 1875054860—security_gov - 140141358065472
+2022-08-16 21:38:24,376 general - ERROR - USER ID 1875054860
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140109260097088
+2022-08-16 21:38:28,002 general - INFO - Processing 578439087—MAlradeni - 140141358065472
+2022-08-16 21:39:00,011 general - ERROR - USER ID 578439087
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140109031396928
+2022-08-16 21:39:02,329 general - INFO - Processing 119286196—alrajhibank - 140141358065472
+2022-08-16 21:39:41,068 general - ERROR - USER ID 119286196
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140108879279680
+2022-08-16 21:39:50,145 general - INFO - Processing 345426800—marzooqAlroqi - 140141358065472
+2022-08-16 21:40:24,500 general - ERROR - USER ID 345426800
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140108348442176
+2022-08-16 21:52:13,094 general - INFO - Processing 590904024—shmaghalbassam - 140141358065472
+2022-08-16 21:52:44,405 general - ERROR - USER ID 590904024
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140108196324928
+2022-08-16 21:52:46,667 general - INFO - Processing 1924170344—Ithraknowledge - 140141358065472
+2022-08-16 21:53:17,836 general - ERROR - USER ID 1924170344
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140108043159104
+2022-08-16 21:53:18,933 general - INFO - Processing 179624440—daffah_co - 140141358065472
+2022-08-16 21:53:37,828 general - ERROR - USER ID 179624440
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140107965527616
+2022-08-16 21:53:41,636 general - INFO - Processing 1030199192—SaudiHousing - 140141358065472
+2022-08-16 21:54:12,677 general - ERROR - USER ID 1030199192
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140107737876032
+2022-08-16 21:54:15,703 general - INFO - Processing 627857652—axiom_ksa - 140141358065472
+2022-08-16 21:54:57,027 general - ERROR - USER ID 627857652
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140107584710208
+2022-08-16 21:54:58,084 general - INFO - Processing 728647080—SASOGOV - 140141358065472
+2022-08-16 21:55:50,617 general - ERROR - USER ID 728647080
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140107506030144
+2022-08-16 21:55:51,663 general - INFO - Processing 590679400—almajed4oud - 140141358065472
+2022-08-16 21:55:51,687 general - INFO - Processing 259644792—CWDA_SA - 140141358065472
+2022-08-16 21:55:51,736 general - INFO - Processing 479320838—MawaniKSA - 140141358065472
+2022-08-16 21:56:19,146 general - ERROR - USER ID 590679400
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140107428398656
+2022-08-16 21:56:28,802 general - ERROR - USER ID 479320838
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140107411613248
+2022-08-16 21:56:35,444 general - ERROR - USER ID 259644792
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140107420005952
+2022-08-16 21:56:37,810 general - INFO - Processing 1101382950—alareen_ - 140141358065472
+2022-08-16 21:57:12,478 general - ERROR - USER ID 1101382950
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140107261601344
+2022-08-16 22:07:15,922 general - INFO - Processing 1072915220—KingSalman - 140141358065472
+2022-08-16 22:07:15,963 general - INFO - Processing 342697022—SekopeKepu - 140141358065472
+2022-08-16 22:07:17,477 general - ERROR - USER ID 342697022
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140106950022720
+2022-08-16 22:07:20,657 general - ERROR - USER ID 1072915220
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140106958415424
+2022-08-16 22:07:21,865 general - INFO - Processing 446211556—SaudiED - 140141358065472
+2022-08-16 22:07:57,321 general - ERROR - USER ID 446211556
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140106882881088
+2022-08-16 22:08:03,330 general - INFO - Processing 275558381—Talhabeeb - 140141358065472
+2022-08-16 22:08:40,250 general - ERROR - USER ID 275558381
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140106503112256
+2022-08-16 22:08:42,693 general - INFO - Processing 377224227—HRDF_Care - 140141358065472
+2022-08-16 22:09:16,838 general - ERROR - USER ID 377224227
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140106349946432
+2022-08-16 22:09:21,501 general - INFO - Processing 292784297—Saudi_FDA - 140141358065472
+2022-08-16 22:09:54,129 general - ERROR - USER ID 292784297
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140106045711936
+2022-08-16 22:22:26,229 general - INFO - Processing 333925878—MCgovSA - 140141358065472
+2022-08-16 22:22:55,717 general - ERROR - USER ID 333925878
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140105363805760
+2022-08-16 22:23:03,110 general - INFO - Processing 30842596—realISAK - 140141358065472
+2022-08-16 22:23:08,682 general - ERROR - USER ID 30842596
+........
+documents must be a non-empty list
+........
+ - 140104909551168
+2022-08-16 22:37:22,169 general - INFO - Processing 80247671—workshopsf - 140141358065472
+2022-08-16 22:37:23,090 general - ERROR - USER ID 80247671
+........
+you are over your space quota, using 602 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 602 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}
+........
+ - 140104531879488

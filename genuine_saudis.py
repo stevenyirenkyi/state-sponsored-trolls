@@ -12,6 +12,8 @@ import harvest_tweets
 
 load_dotenv()
 log = get_logger("general", "genuine_dataset.log")
+location_logger = get_logger("location", "location.log")
+
 
 
 genuine_saudis = get_collection("genuine_saudis")
@@ -47,27 +49,35 @@ if response.data is None:
 
 verified_profile_id = response.data.id
 saudi_arabia = "المملكة العربية السعودية"
-location_logger = get_logger("location", "location.log")
 
 # TODO: remove limit. set max results
 user_fields = ["created_at", "location", "description", "public_metrics"]
+count = 0
+
 for response in Paginator(tweepy_client.get_users_following, verified_profile_id,
-                          max_results=10, user_fields=user_fields,
-                          limit=1):
+                          max_results=1000, user_fields=user_fields):
     if response.data is None:
         continue
 
     queue = Queue()
-    for i in range(2):
+    for i in range(9):
         worker = Worker(queue)
         worker.daemon = True
         worker.start()
 
-    for user in response.data[:2]:
+    for user in response.data:
         user: User
 
         location_logger.info(f"{user.location}—{user.username}")
         if user.location == saudi_arabia:
+            count  = count + 1
+            log.info(f"Processing {user.id}—{user.username}")
             queue.put(user)
+        
+    print(f"Done {count} users so far")
 
     queue.join()
+
+
+def user_exists(id):
+    
