@@ -1,3 +1,5 @@
 .env
+mongodump.yaml
 
 /__pycache__
+/dump

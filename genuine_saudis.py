@@ -15,7 +15,6 @@ log = get_logger("general", "genuine_dataset.log")
 location_logger = get_logger("location", "location.log")
 
 
-
 genuine_saudis = get_collection("genuine_saudis")
 
 
@@ -38,7 +37,7 @@ class Worker(Thread):
                 self.queue.task_done()
 
 
-bearer_token = environ["ACADEMIC_BEARER_TOKEN"]
+bearer_token = environ["ACADEMIC_BEARER_TOKEN_2"]
 tweepy_client = Client(bearer_token=bearer_token, wait_on_rate_limit=True)
 
 
@@ -47,8 +46,19 @@ if response.data is None:
     print("Twitter Verified account doesn't exist")
     exit()
 
+
+def user_exists(id):
+    record = genuine_saudis.find_one({"userid": id})
+    if record is None:
+        return False
+    else:
+        return True
+
+
 verified_profile_id = response.data.id
-saudi_arabia = "المملكة العربية السعودية"
+# saudi_arabia =
+countries = ["المملكة العربية السعودية", "saudi arabia", "Riyadh", "الرياض",
+             "ksa", "🇸🇦 المملكة العربية السعودية", "المملكة العربية السعودية"]
 
 # TODO: remove limit. set max results
 user_fields = ["created_at", "location", "description", "public_metrics"]
@@ -69,15 +79,14 @@ for response in Paginator(tweepy_client.get_users_following, verified_profile_id
         user: User
 
         location_logger.info(f"{user.location}—{user.username}")
-        if user.location == saudi_arabia:
-            count  = count + 1
-            log.info(f"Processing {user.id}—{user.username}")
-            queue.put(user)
-        
+        if user.location in countries:
+            if user_exists(user.id) is False:
+                count = count + 1
+                log.info(f"Processing {user.id}—{user.username}")
+                queue.put(user)
+            else:
+                log.info(f"User exists {user.id}")
+
     print(f"Done {count} users so far")
 
     queue.join()
-
-
-def user_exists(id):
-    
